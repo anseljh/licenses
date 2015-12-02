@@ -1,0 +1,30 @@
+{
+  "name": "okfn-licenses",
+  "version": "0.8.0",
+  "description": "Data package about open source and open knowledge (data and content) licenses",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "del": "^2.1.0",
+    "gulp": "^3.9.0",
+    "gulp-convert": "^0.2.0",
+    "gulp-json-editor": "^2.2.1",
+    "gulp-jsoncombine": "^1.0.3",
+    "gulp-pretty-data": "^0.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "okfn/licenses",
+  "keywords": [
+    "licensing",
+    "open source",
+    "open knowledge"
+  ],
+  "author": "Open Knowledge and contributors",
+  "license": "PDDL-1.0",
+  "bugs": {
+    "url": "https://github.com/okfn/licenses/issues"
+  },
+  "homepage": "https://github.com/okfn/licenses#readme"
+}
